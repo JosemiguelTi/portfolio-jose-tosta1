@@ -31,8 +31,8 @@
 </div>
 
 <div style="background-color: #E6F0FA; padding: 10px; border-left: 5px solid #1E90FF;">
-  ### Virtual Assistant – Dr. Ali Najafi Neurosurgeon & Mendez and Sanchez Law Firm / IMPACTBPO
-  <p style="color: #4682B4;">**Ubicación:** Tegucigalpa, Honduras | **Fechas:** Noviembre 2023 – Noviembre 2024</p>
+   Virtual Assistant – Dr. Ali Najafi Neurosurgeon & Mendez and Sanchez Law Firm / IMPACTBPO
+  <p style="color: #4682B4;">**Ubicación:** Tegucigalpa, Honduras | Fechas: Noviembre 2023 – Noviembre 2024</p>
   - Contacto con clientes para completar información en intakes.  
   - Coordinación de citas médicas (30–50 pacientes diarios).  
   - Comunicación con pacientes, abogados y aseguradoras.  
@@ -40,16 +40,16 @@
 </div>
 
 <div style="background-color: #E6F0FA; padding: 10px; border-left: 5px solid #1E90FF;">
-  ### CSR Shared Agent – Market Force Information / ICCBPO
-  <p style="color: #4682B4;">**Ubicación:** Remoto | **Fechas:** Septiembre 2021 – Noviembre 2023</p>
+   CSR Shared Agent – Market Force Information / ICCBPO
+  <p style="color: #4682B4;">**Ubicación:** Remoto | Fechas: Septiembre 2021 – Noviembre 2023</p>
   - Atención de 80+ llamadas diarias para reclamos, devoluciones y tickets.  
   - Clasificación y enrutamiento de casos en CRM.  
   - Comunicación con cliente corporativo para actualización de políticas.
 </div>
 
 <div style="background-color: #E6F0FA; padding: 10px; border-left: 5px solid #1E90FF;">
-  ### Technical Support – Google Nest / 24/7 In-Touch Company
-  <p style="color: #4682B4;">**Ubicación:** Remoto | **Fechas:** Enero 2021 – Septiembre 2021</p>
+   Technical Support – Google Nest / 24/7 In-Touch Company
+  <p style="color: #4682B4;">**Ubicación:** Remoto | Fechas: Enero 2021 – Septiembre 2021</p>
   - Soporte técnico remoto para termostatos y alarmas Google Nest.  
   - Procesamiento de devoluciones y cambios vía CRM de Google.
 </div>
