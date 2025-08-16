@@ -1,5 +1,4 @@
 # <span style="color: #1E90FF">Jose Miguel Tosta Inestroza - Curriculum Vitae</span>
-
 <div align="center">
   <img src="https://github.com/josetosta/portfolio-jose-tosta/blob/main/nueva-foto.jpg" alt="Foto de Jose Miguel Tosta" style="border-radius: 50%; border: 5px solid #1E90FF;">
   <h3 style="color: #4682B4;">Ubicación: Francisco Morazán, Valle de Ángeles, La Tres Rosas – Honduras</h3>
